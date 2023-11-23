@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_view_captions">
+        <item name="inch">Inches</item>
+        <item name="yard">Yards</item>
+        <item name="foot">Feet</item>
+        <item name="mile">Miles</item>
+        <item name="yottametre">Yottametres</item>
+        <item name="zettametre">Zettametres</item>
+        <item name="exametre">Exametres</item>
+        <item name="petametre">Petametres</item>
+        <item name="terametre">Terametres</item>
+        <item name="gigametre">Gigametres</item>
+        <item name="megametre">Megametres</item>
+        <item name="kilometre">Kilometres</item>
+        <item name="hectometre">Hectometres</item>
+        <item name="decametre">Decametres</item>
+        <item name="metre">Metres</item>
+        <item name="decimetre">Decimetres</item>
+        <item name="centimetre">Centimetres</item>
+        <item name="millimetre">Millimetres</item>
+        <item name="micrometre">Micrometres</item>
+        <item name="nanometre">Nanometres</item>
+        <item name="picometre">Picometres</item>
+        <item name="femtometre">Femtometres</item>
+        <item name="attometre">Attometres</item>
+        <item name="zeptometre">Zeptometres</item>
+        <item name="yoctometre">Yoctometres</item>
+    </string-array>
+</resources>

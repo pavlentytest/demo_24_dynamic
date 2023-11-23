@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="text_view_captions">
+        <item name="inch">Дюйм</item>
+        <item name="yard">Ярд</item>
+        <item name="foot">Фут</item>
+        <item name="mile">Миля</item>
+        <item name="yottametre">Иоттаметр</item>
+        <item name="zettametre">Зеттаметр</item>
+        <item name="exametre">Эксаметр</item>
+        <item name="petametre">Петаметр</item>
+        <item name="terametre">Тераметр</item>
+        <item name="gigametre">Гигаметр</item>
+        <item name="megametre">Мегаметр</item>
+        <item name="kilometre">Километр</item>
+        <item name="hectometre">Гектометр</item>
+        <item name="decametre">Декаметр</item>
+        <item name="metre">Метр</item>
+        <item name="decimetre">Дециметр</item>
+        <item name="centimetre">Сантиметр</item>
+        <item name="millimetre">Миллиметр</item>
+        <item name="micrometre">Микрометр</item>
+        <item name="nanometre">Нанометр</item>
+        <item name="picometre">Пикометр</item>
+        <item name="femtometre">Фемтометр</item>
+        <item name="attometre">Аттометр</item>
+        <item name="zeptometre">Земтометр</item>
+        <item name="yoctometre">Иоктометр</item>
+    </string-array>
+</resources>
